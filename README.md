@@ -13,7 +13,6 @@ I'm interested in web development.
 Self-taught, in programming for about 3 years now.
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sslipp&repo=ItManuals&theme=dracula&bg_color=00000000&)]
 
 
   <summary><h2><b>📚 My stack</b></h2></summary>
