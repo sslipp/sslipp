@@ -16,7 +16,6 @@ Self-taught, in programming for about 3 years now.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sslipp&repo=ItManuals&theme=dracula&bg_color=00000000&)]
 
 
-<details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
@@ -27,7 +26,6 @@ Self-taught, in programming for about 3 years now.
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman&perline=7" />
     <br>
   </p>
-</details>
 
 
 <details align="left">
