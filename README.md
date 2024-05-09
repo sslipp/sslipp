@@ -29,7 +29,7 @@
 		<h1>
 			My knowledges
 		</h1>
-		<img src="https://skillicons.dev/icons?i=html,css,js,linux,flutter,react,git,bootstrap,visualstudio,vscode,postman&perline=8" />
+		<img src="https://skillicons.dev/icons?i=html,css,js,linux,flutter,react,git,bootstrap,visualstudio,vscode,postman&perline=11" />
 	</div>
 	<div align="center">
 		<img src = "https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
